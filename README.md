@@ -18,7 +18,7 @@ See `freecodecamp.com` for ways to get started.
 
 Insert gif or link to demo
 
-https://color-flipper-by-meric-cintosun.vercel.app/
+https://reviews-javascript-project-by-meric-cintosun.vercel.app/
 ## Screenshots
 
 ![App Screenshot](https://r.resimlink.com/J8CLN6iMluZB.png)
