@@ -21,5 +21,5 @@ Insert gif or link to demo
 https://color-flipper-by-meric-cintosun.vercel.app/
 ## Screenshots
 
-![App Screenshot][([https://r.resimlink.com/f63U-.png](https://r.resimlink.com/J8CLN6iMluZB.png))](https://r.resimlink.com/J8CLN6iMluZB.png)https://r.resimlink.com/J8CLN6iMluZB.png
+![App Screenshot](https://r.resimlink.com/J8CLN6iMluZB.png)
 
